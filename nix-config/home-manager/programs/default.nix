@@ -1,7 +1,0 @@
-{
-  imports = [
-    ./alactritty
-    ./zsh
-    ./misc
-  ];
-}
